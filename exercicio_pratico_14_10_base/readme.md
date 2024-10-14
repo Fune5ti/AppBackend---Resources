@@ -31,7 +31,7 @@ Cada livro deve conter as seguintes informações:
 
 - `id`: identificador único do livro.
 - `titulo`: o título do livro.
-- `autorId`: o ID do autor associado.
+- `authorId`: o ID do autor associado.
 - `anoPublicacao`: o ano de publicação do livro.
 
 ### Autor
